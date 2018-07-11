@@ -1,4 +1,5 @@
 # 100DaysOfML
 I accept the challenge of Siraj Raval of 100 days of ML. I will learn and code machine learning for at least 1 hour everyday.
 
-Day 1 : Stock Price Predictor 
+Day 1 : Stock Price Predictor <br />
+Day 2 : Twitter Sentiment Analysis and Udacity Intro to Machine Learning - Lesson 11 Text Learning
