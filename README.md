@@ -8,4 +8,11 @@ Day 4 : Learned Bayes Theorem and Naive Bayes Classification Algorithm. Wrote a 
 Day 5 : Built a Naive Bayes Classifier from Scratch using python and numpy package. Reference: https://machinelearningmastery.com/naive-bayes-classifier-scratch-python/ <br/>
 Day 6 : Learned Decision Tree Classifier and implemented it using sklearn on iris dataset. Started learning Pandas library. <br />
 Day 7 : Visualizing Data from Data Science from Scratch : First Principles with Python. <br />
-Day 8 : Learn Pandas from Kaggle https://kaggle.com/snaily16/creating-reading-and-writing-workbook?scriptVersionId=4628732 <br />
+Day 8 : Learnt Pandas from Kaggle - 
+	1.Creating, reading and writing workbook, 
+	2.Indexing, Selecting & Assigning, 
+	3. Summary functions and maps workbook <br />
+Day 9 : 4. Grouping and Sorting
+		5. Datatypes and missing data workbook
+		6. Renaming and combining workbook
+		7. Method chaining workbook
