@@ -16,4 +16,6 @@ Day 9 : 4. Grouping and Sorting
 		5. Datatypes and missing data workbook
 		6. Renaming and combining workbook
 		7. Method chaining workbook
-Day 10 : Movie Recommendation using LightFM dependency and movielens dataset
+Day 10 : Movie Recommendation using LightFM dependency and movielens dataset<br />
+Day 11 : Done some coding in Python for All Women Hackthon - Hacckerrank<br />
+Day 12 : Studied Feature Selection 
