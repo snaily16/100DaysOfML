@@ -29,4 +29,5 @@ Day 9 : 4. Grouping and Sorting<br />
 Day 10 : Movie Recommendation using LightFM dependency and movielens dataset<br />
 Day 11 : Done some coding in Python for All Women Hackthon - Hacckerrank
 
-Day 12 : Studied Feature Selection 
+Day 12 : Studied Feature Selection <br />
+Day 13 : Built a spam filter using Naive Bayes classifier and enron dataset
