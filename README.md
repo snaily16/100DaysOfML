@@ -30,5 +30,6 @@ Day 10 : Movie Recommendation using LightFM dependency and movielens dataset<br 
 Day 11 : Done some coding in Python for All Women Hackthon - Hacckerrank<br />
 Day 12 : Studied Feature Selection <br />
 Day 13 : Built a spam filter using Naive Bayes classifier and enron dataset<br />
-Day 14 : Working on building Spam classifier from scratch using Pandas and Numpy library
-Day 15 : Predicted house prices using Linear Regression.
+Day 14 : Working on building Spam classifier from scratch using Pandas and Numpy library<br />
+Day 15 : Predicted house prices using Linear Regression.<br />
+Day 16 : Visualization with Seaborn<br />
