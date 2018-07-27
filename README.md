@@ -33,3 +33,4 @@ Day 13 : Built a spam filter using Naive Bayes classifier and enron dataset<br /
 Day 14 : Working on building Spam classifier from scratch using Pandas and Numpy library<br />
 Day 15 : Predicted house prices using Linear Regression.<br />
 Day 16 : Visualization with Seaborn<br />
+Day 17 : Built a single layer neural network using Python Numpy. <br />
