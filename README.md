@@ -34,3 +34,4 @@ Day 14 : Working on building Spam classifier from scratch using Pandas and Numpy
 Day 15 : Predicted house prices using Linear Regression.<br />
 Day 16 : Visualization with Seaborn<br />
 Day 17 : Built a single layer neural network using Python Numpy. <br />
+Day 18 : Built decision tree from scratch using Python.
