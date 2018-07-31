@@ -18,20 +18,11 @@ Day 9 : 4. Grouping and Sorting
 		7. Method chaining workbook
 Day 10 : Movie Recommendation using LightFM dependency and movielens dataset<br />
 Day 11 : Done some coding in Python for All Women Hackthon - Hacckerrank<br />
-Day 12 : Studied Feature Selection 
-...1.Creating, reading and writing workbook, <br />
-...2.Indexing, Selecting & Assigning, <br />
-...3. Summary functions and maps workbook <br />
-Day 9 : 4. Grouping and Sorting<br />
-...5. Datatypes and missing data workbook<br />
-...6. Renaming and combining workbook<br />
-...7. Method chaining workbook<br />
-Day 10 : Movie Recommendation using LightFM dependency and movielens dataset<br />
-Day 11 : Done some coding in Python for All Women Hackthon - Hacckerrank<br />
 Day 12 : Studied Feature Selection <br />
 Day 13 : Built a spam filter using Naive Bayes classifier and enron dataset<br />
 Day 14 : Working on building Spam classifier from scratch using Pandas and Numpy library<br />
 Day 15 : Predicted house prices using Linear Regression.<br />
 Day 16 : Visualization with Seaborn<br />
 Day 17 : Built a single layer neural network using Python Numpy. <br />
-Day 18 : Built decision tree from scratch using Python.
+Day 18 : Built decision tree from scratch using Python. <br />
+Day 19 : Built KNN classifier from scratch 
