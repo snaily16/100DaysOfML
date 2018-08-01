@@ -25,4 +25,5 @@ Day 15 : Predicted house prices using Linear Regression.<br />
 Day 16 : Visualization with Seaborn<br />
 Day 17 : Built a single layer neural network using Python Numpy. <br />
 Day 18 : Built decision tree from scratch using Python. <br />
-Day 19 : Built KNN classifier from scratch 
+Day 19 : Built KNN classifier from scratch <br />
+Day 20 : Chapter 1 of Data Science from Scratch : Motivating Hypothetical - DataSciencester<br />
