@@ -27,3 +27,4 @@ Day 17 : Built a single layer neural network using Python Numpy. <br />
 Day 18 : Built decision tree from scratch using Python. <br />
 Day 19 : Built KNN classifier from scratch <br />
 Day 20 : Chapter 1 of Data Science from Scratch : Motivating Hypothetical - DataSciencester<br />
+Day 21 : Chapter 4 : Linear Algebra and Chapter 5: Statistics (Revised some mathemathical concepts). <br />
