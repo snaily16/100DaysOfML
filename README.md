@@ -28,4 +28,5 @@ Day 18 : Built decision tree from scratch using Python. <br />
 Day 19 : Built KNN classifier from scratch <br />
 Day 20 : Chapter 1 of Data Science from Scratch : Motivating Hypothetical - DataSciencester<br />
 Day 21 : Chapter 4 : Linear Algebra and Chapter 5: Statistics (Revised some mathemathical concepts). <br />
-Day 22 : Completed Quiz project task of Feature Selection and started new concept - PCA - Principal Component Analysis in Udacity Into to ML
+Day 22 : Completed Quiz project task of Feature Selection and started new concept - PCA - Principal Component Analysis in Udacity Into to ML<br />
+Day 23 : Completed PCA and Validation lessons 
