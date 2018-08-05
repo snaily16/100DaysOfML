@@ -29,4 +29,5 @@ Day 19 : Built KNN classifier from scratch <br />
 Day 20 : Chapter 1 of Data Science from Scratch : Motivating Hypothetical - DataSciencester<br />
 Day 21 : Chapter 4 : Linear Algebra and Chapter 5: Statistics (Revised some mathemathical concepts). <br />
 Day 22 : Completed Quiz project task of Feature Selection and started new concept - PCA - Principal Component Analysis in Udacity Into to ML<br />
-Day 23 : Completed PCA and Validation lessons 
+Day 23 : Completed PCA and Validation lessons  <br/>
+Day 24 : Completed Evaluation Metric lesson <br/>
