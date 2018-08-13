@@ -31,4 +31,5 @@ Day 21 : Chapter 4 : Linear Algebra and Chapter 5: Statistics (Revised some math
 Day 22 : Completed Quiz project task of Feature Selection and started new concept - PCA - Principal Component Analysis in Udacity Into to ML<br />
 Day 23 : Completed PCA and Validation lessons  <br/>
 Day 24 : Completed Evaluation Metric lesson <br/>
-Day 25, 26, 27: Completed project on Enron dataset
+Day 25, 26, 27: Completed project on Enron dataset<br />
+Day 28 : Implemented simple linear regression from scratch. <br/>
