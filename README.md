@@ -33,3 +33,4 @@ Day 23 : Completed PCA and Validation lessons  <br/>
 Day 24 : Completed Evaluation Metric lesson <br/>
 Day 25, 26, 27: Completed project on Enron dataset<br />
 Day 28 : Implemented simple linear regression from scratch. <br/>
+Day 29 : Implemented multiple linear regression using gradient descent. <br />
