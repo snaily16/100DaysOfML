@@ -34,3 +34,4 @@ Day 24 : Completed Evaluation Metric lesson <br/>
 Day 25, 26, 27: Completed project on Enron dataset<br />
 Day 28 : Implemented simple linear regression from scratch. <br/>
 Day 29 : Studied gradient descent. <br />
+Day 30 : Watched Andrew Ng videos on multiple linear regression and implemented it. <br />
