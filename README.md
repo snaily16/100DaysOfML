@@ -37,3 +37,4 @@ Day 29 : Studied gradient descent. <br />
 Day 30 : Watched Andrew Ng videos on multiple linear regression and implemented it. <br />
 Day 31 : Studied Logistic Regression<br/>
 Day 32, 33 : Built Binary Classification Logistic Regression from scratch using python <br/>
+Day 34 : Learned Tensorflow basics
