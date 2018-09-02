@@ -38,4 +38,4 @@ Day 30 : Watched Andrew Ng videos on multiple linear regression and implemented 
 Day 31 : Studied Logistic Regression<br/>
 Day 32, 33 : Built Binary Classification Logistic Regression from scratch using python <br/>
 Day 34, 35 : Learned Tensorflow basics<br />
-Day 36 : Working on Kaggle's Titanic: Machine Learning from Disaster
+Day 36, 37 : Working on Kaggle's Titanic: Machine Learning from Disaster
