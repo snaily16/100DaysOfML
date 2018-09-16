@@ -40,4 +40,5 @@ Day 32, 33 : Built Binary Classification Logistic Regression from scratch using 
 Day 34, 35 : Learned Tensorflow basics<br />
 Day 36, 37, 38: Working on Kaggle's Titanic: Machine Learning from Disaster
 Day 39, 40: Watched youtube videos of Siraj and read medium posts.
-Day 41: Started Statistic course of Udacity.
+Day 41, 42: Started Statistic course of Udacity.
+Day 43 : Learned from Coursera CNN course - Edge Detection, Padding, Strided cnn, pooling.
