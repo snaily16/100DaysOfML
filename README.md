@@ -44,4 +44,6 @@ Day 41, 42: Started Statistic course of Udacity.<br/>
 Day 43 : Learned from Coursera CNN course - Edge Detection, Padding, Strided cnn, pooling.<br/>
 Day 44 : Implemnted linear regression using Tensorflow<br/>
 Day 45 : Working on MNIST digit recognizer.<br/>
-Day 46 : Started learning Angular and Node.js side by side.
+Day 46 : Started learning Angular and Node.js side by side.<br/>
+Day 47 : Predicting Boston Housing Prices using Tensorflow.<br/>
+Day 48 : Completed 7 lessons of Udacity Intro to Statistics<br/>
