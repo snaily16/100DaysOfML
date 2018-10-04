@@ -47,4 +47,5 @@ Day 45 : Working on MNIST digit recognizer.<br/>
 Day 46 : Started learning Angular and Node.js side by side.<br/>
 Day 47 : Predicting Boston Housing Prices using Tensorflow.<br/>
 Day 48 : Completed 7 lessons of Udacity Intro to Statistics<br/>
-Day 49 : Completed Kaggle's Digit Recognizer.
+Day 49 : Completed Kaggle's Digit Recognizer.<br/>
+Day 50 : Learned basics of CNN and wrote edge detection code.<br/>
