@@ -49,3 +49,4 @@ Day 47 : Predicting Boston Housing Prices using Tensorflow.<br/>
 Day 48 : Completed 7 lessons of Udacity Intro to Statistics<br/>
 Day 49 : Completed Kaggle's Digit Recognizer.<br/>
 Day 50 : Learned basics of CNN and wrote edge detection code.<br/>
+Day 51 : Learned classic neural network architectures - LeNet, AlexNet, VGG-16, ResNet.<br/>
