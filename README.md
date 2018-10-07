@@ -50,3 +50,5 @@ Day 48 : Completed 7 lessons of Udacity Intro to Statistics<br/>
 Day 49 : Completed Kaggle's Digit Recognizer.<br/>
 Day 50 : Learned basics of CNN and wrote edge detection code.<br/>
 Day 51 : Learned classic neural network architectures - LeNet, AlexNet, VGG-16, ResNet.<br/>
+Day 52 : Used Google Collab, learned to load Kaggle's dataset in it. Also learnt its basic functionality<br/>
+Day 53 : Working on Cats vs Dogs with ConvNet using Keras<br/>
