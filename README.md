@@ -52,3 +52,5 @@ Day 50 : Learned basics of CNN and wrote edge detection code.<br/>
 Day 51 : Learned classic neural network architectures - LeNet, AlexNet, VGG-16, ResNet.<br/>
 Day 52 : Used Google Collab, learned to load Kaggle's dataset in it. Also learnt its basic functionality<br/>
 Day 53 : Working on Cats vs Dogs with ConvNet using Keras<br/>
+Day 54 : Created conv model similar to VGG-16 in Keras to classify between a dog and cat, also learned data augmentation<br/>
+Day 55 : Published my first story on Medium regarding Google Colab<br/>
