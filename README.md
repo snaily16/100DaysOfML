@@ -54,3 +54,5 @@ Day 52 : Used Google Collab, learned to load Kaggle's dataset in it. Also learnt
 Day 53 : Working on Cats vs Dogs with ConvNet using Keras<br/>
 Day 54 : Created conv model similar to VGG-16 in Keras to classify between a dog and cat, also learned data augmentation<br/>
 Day 55 : Published my first story on Medium regarding Google Colab<br/>
+Day 56: Completed the Cat vs Dog classification. Although achieved just 70% accuracy, studying related to overfitting problems, and use of optimizers and callbacks. Will try to achieve better accuracy.<br/>
+Day 57: Wrote my 2nd @Medium story - on how to import data to google colab.<br/>
