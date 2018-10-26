@@ -54,5 +54,11 @@ Day 52 : Used Google Collab, learned to load Kaggle's dataset in it. Also learnt
 Day 53 : Working on Cats vs Dogs with ConvNet using Keras<br/>
 Day 54 : Created conv model similar to VGG-16 in Keras to classify between a dog and cat, also learned data augmentation<br/>
 Day 55 : Published my first story on Medium regarding Google Colab<br/>
-Day 56: Completed the Cat vs Dog classification. Although achieved just 70% accuracy, studying related to overfitting problems, and use of optimizers and callbacks. Will try to achieve better accuracy.<br/>
-Day 57: Wrote my 2nd @Medium story - on how to import data to google colab.<br/>
+Day 56 : Completed the Cat vs Dog classification. Although achieved just 70% accuracy, studying related to overfitting problems, and use of optimizers and callbacks. Will try to achieve better accuracy.<br/>
+Day 57 : Wrote my 2nd @Medium story - on how to import data to google colab.<br/>
+Day 58 : Read and watched videos on Transfer learning<br/>
+Day 59 : Wrote ML code using Logistic Regression to predict whether a patient has diabetes or not. <br/>
+Day 60 : Started learning Flask.<br/>
+Day 61 : Created my first webapp using Flask to predict diabetes. Still work in progress, will try to make it look little classy.<br/>
+Day 62 & 63 : Did nothing related to ML, but taught JAVA programming to one of my relative🙂<br/>
+Day 64: Watched @sirajraval 's video of How to Generate Art and How to Do Style Transfer with Tensorflow. Now reading a research paper - Neural Algorithm of Artistic Style<br/>
