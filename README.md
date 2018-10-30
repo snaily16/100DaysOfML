@@ -61,4 +61,6 @@ Day 59 : Wrote ML code using Logistic Regression to predict whether a patient ha
 Day 60 : Started learning Flask.<br/>
 Day 61 : Created my first webapp using Flask to predict diabetes. Still work in progress, will try to make it look little classy.<br/>
 Day 62 & 63 : Did nothing related to ML, but taught JAVA programming to one of my relative🙂<br/>
-Day 64: Watched @sirajraval 's video of How to Generate Art and How to Do Style Transfer with Tensorflow. Now reading a research paper - Neural Algorithm of Artistic Style<br/>
+Day 64 : Watched @sirajraval 's video of How to Generate Art and How to Do Style Transfer with Tensorflow. Now reading a research paper - Neural Algorithm of Artistic Style<br/>
+Day 65 : Wrote a program to generate art.<br/>
+Day 66 : Worked on YOLO object detection using darkflow. <br/>
