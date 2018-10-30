@@ -64,3 +64,4 @@ Day 62 & 63 : Did nothing related to ML, but taught JAVA programming to one of m
 Day 64 : Watched @sirajraval 's video of How to Generate Art and How to Do Style Transfer with Tensorflow. Now reading a research paper - Neural Algorithm of Artistic Style<br/>
 Day 65 : Wrote a program to generate art.<br/>
 Day 66 : Worked on YOLO object detection using darkflow. <br/>
+Day 67 : Built Sentiment Analyser using Tflearn - A step towards NLP.
