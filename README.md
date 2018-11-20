@@ -68,3 +68,9 @@ Day 67 : Built Sentiment Analyser using Tflearn - A step towards NLP.<br/>
 Day 68 : Studied statistics<br/>
 Day 69 : Wrote a code to detect faces with OpenCV and Deep learning. Reference @PyImageSearch tutorials<br/>
 Day 70 : Revised basics of OpenCV - array slicing, resizing, rotating, smoothing, drawing on image, etc<br/>
+Day 71: Learned the fundamentals of image processing like edge detection, thresholding, erosion, dilation, masking and many more using OpenCV<br/>
+Day 72 : Learned to track colored object in OpenCV. Referred @PyImageSearch tutorials.😀<br/>
+Day 73: Read a blog on - How OpenCV’s blobFromImage works.<br/>
+Day 74, 75: Using previously trained model of Digit Recognizer in keras implemented code to predict digits from the image with OpenCV.<br/>
+Day 76, 77: Real-time digit recognition using OpenCV.<br/>
+Day 78: Updated projects to github with detailed readme <br/>
