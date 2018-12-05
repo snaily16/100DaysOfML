@@ -75,4 +75,8 @@ Day 74, 75 : Using previously trained model of Digit Recognizer in keras impleme
 Day 76, 77 : Real-time digit recognition using OpenCV.<br/>
 Day 78 : Updated projects to github with detailed readme <br/>
 Day 79 : Today I practiced SQL queries. Didn't do much related to ML, watched siraj's video on AI in China<br/>
-Day 80: Worked on data visualization and feature selection on Breast Cancer Dataset<br />
+Day 80 : Worked on data visualization and feature selection on Breast Cancer Dataset<br />
+Day 81 : Learned voilon plot, swarm plot and box plot plotting techniques.<br/ >
+Day 82 : Read blogs on facial landmark detection using dlib library<br/>
+Day 83, 84 : Started working on facial expression dataset<br/>
+Day 85, 86 : Read various blogs on Data Augmentation and wrote a @Medium story 👉 Is deep learning useless if there is no large dataset available? NO!!!<br/>
