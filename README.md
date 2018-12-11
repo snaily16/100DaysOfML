@@ -80,3 +80,8 @@ Day 81 : Learned voilon plot, swarm plot and box plot plotting techniques.<br/ >
 Day 82 : Read blogs on facial landmark detection using dlib library<br/>
 Day 83, 84 : Started working on facial expression dataset<br/>
 Day 85, 86 : Read various blogs on Data Augmentation and wrote a @Medium story 👉 Is deep learning useless if there is no large dataset available? NO!!!<br/>
+Day 87 : Trained a model to predict sign language digits in Google Colab.<br/>
+Day 88 : Having an issue - Error 104 when downloading the model from Google Colab🙄 Trying to solve it.<br/>
+Day 89 : Loaded Keras saved model and trying to build a real time sign language detector<br/>
+Day 90, 91 : Practiced discrete mathematics sets, relation and function concepts.<br/>
+Day 92 : Started learning Web Scraping<br/> 
